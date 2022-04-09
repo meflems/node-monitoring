@@ -3,9 +3,7 @@ var router = express.Router();
 
 const users = [
   {id: 0, username: "wedeycode", url: "wedeycode.com"},
-  {id: 1, username: "adewale", url: "https://wedeycode.com"},
-  {id: 2, username: "farouq", url: "http://wedeycode.com"},
-  {id: 3, username: "amina", url: "www.wedeycode.com"},
+  {id: 1, username: "rpc", url: "https://Rpc-With-Small-image-and-dnd-or-idle-status-by-Omit-Gaming.meflems1.repl.co"}
 ];
 
 /* GET users listing. */
